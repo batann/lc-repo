@@ -1,0 +1,6 @@
+# MX Community Main and Test Repos
+deb http://mirror.datamossa.io/mxlinux/mx/repo/ bookworm main non-free
+#deb http://mirror.datamossa.io/mxlinux/mx/testrepo/ bookworm test
+
+#ahs hardware stack repo
+#deb http://mirror.datamossa.io/mxlinux/mx/repo/ bookworm ahs
